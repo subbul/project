@@ -1,4 +1,3 @@
-Tutplus
-Simple Readme
-All rights reserved.
-2014
+>>Tutplus
+>>Simple Readme
+All rights reserved. (c) 2014
